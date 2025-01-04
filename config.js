@@ -1,8 +1,8 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["752922497657208976", ""],
-  botInvite: "",
-  supportServer: "",
+  ownerID: ["860761801855205396", "1293989203482247290"],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1324750317526454284&permissions=8&integration_type=0&scope=bot",
+  supportServer: "https://discord.gg/tbMNNnwDRg",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
   status: 'oof',
   commandsDir: './commands',
