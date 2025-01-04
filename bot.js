@@ -8,7 +8,7 @@
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 
 
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+   # MADE BY ATX!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
    ## Contact    [ DISCORD SERVER :  https://discord.gg/tbMNNnwDRg ]
    ## YT : 
@@ -137,7 +137,7 @@ printWatermark();
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 
 
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+   # MADE BY ATX!! FEEL FREE TO USE ANY PART OF CODE
    ## FOR HELP CONTACT ME ON DISCORD
    ## Contact    [ DISCORD SERVER :  https://discord.gg/tbMNNnwDRg ]
    ## 
